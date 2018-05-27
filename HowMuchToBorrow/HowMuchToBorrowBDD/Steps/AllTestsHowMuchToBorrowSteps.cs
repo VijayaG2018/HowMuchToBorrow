@@ -7,7 +7,7 @@ using System.Threading;
 //using AutomationSolution.ErrorMessages;
 
 
-namespace UnitTestProject1
+namespace HowMuchToBorrowBDD
 {
     [Binding]
     public class AllTestsHowMuchToBorrowSteps
