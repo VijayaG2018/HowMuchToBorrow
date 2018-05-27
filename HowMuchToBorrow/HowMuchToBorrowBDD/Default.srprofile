@@ -7,7 +7,7 @@
     <Server serverUrl="http://specrunserver:6365" publishResults="true" />
   -->
   <TestAssemblyPaths>
-    <TestAssemblyPath>UnitTestProject1.dll</TestAssemblyPath>
+    <TestAssemblyPath>HowMuchToBorrowBDD.dll</TestAssemblyPath>
   </TestAssemblyPaths>
   <DeploymentTransformation>
     <Steps>
